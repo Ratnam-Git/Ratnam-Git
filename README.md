@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ratnam-Git
+- 👋 Hi, I’m @Ratnam
 - 👀 I’m interested in web develpment
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on any projects related to web development
