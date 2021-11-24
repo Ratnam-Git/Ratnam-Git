@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on any projects related to web development
 - 📫 How to reach me :
-            Twitter- @ratnam_pathak
+            Twitter- https://twitter.com/ratnam_pathak
             Linkedin- https://www.linkedin.com/in/ratnam-2b51901bb/
 
 
