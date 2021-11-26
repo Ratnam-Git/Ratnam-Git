@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ratnampathak5505@outlook.com**
 
-- ⚡ Fun fact **I love watching football**
+- ⚡ Other hobbies: **watching football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
