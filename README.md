@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratnam</h1>
-<h3 align="center">A passionate frontend as backend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer /h3>
 
 - 🔭 I’m currently working on **a Blog project**
 
