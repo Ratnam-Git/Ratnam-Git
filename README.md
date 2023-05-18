@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ratnam</h1>
-<h3 align="center">A passionate frontend and backend developer h3>
+<h3 align="center">A passionate frontend and backend developer </h3>
 
-- 🔭 I’m currently working on **a Blog project**
+- 🔭 I’m currently working on **a nft-marketplace**
 
-- 🌱 I’m currently learning **Databases**
-
-- 👯 I’m looking to collaborate on **web development projects**
-
-- 🤝 I’m looking for help with **node.js**
+- 🌱 I’m currently learning **solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ratnam-Git](https://github.com/Ratnam-Git)
 
-- 💬 Ask me about **html, css, javascript, node, ejs**
-
 - 📫 How to reach me **ratnampathak5505@outlook.com**
-
-- ⚡ Other hobbies: **watching football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
